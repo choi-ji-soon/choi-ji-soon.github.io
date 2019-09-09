@@ -1,6 +1,6 @@
 # choi-ji-soon.github.io
 
-https://user-images.githubusercontent.com/55022464/64522467-fe511e80-d334-11e9-8317-745b05b26e73.PNG
+![20161473](https://user-images.githubusercontent.com/55022464/64522790-ca2a2d80-d335-11e9-9143-0c7899d1ac7a.PNG)
 
 
 
