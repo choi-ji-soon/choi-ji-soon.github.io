@@ -10,8 +10,23 @@
 ![20161473small (2)](https://user-images.githubusercontent.com/55022464/65046550-cf255780-d99b-11e9-8d90-722bf2c342af.png)
 
 
+![201614733_2](https://user-images.githubusercontent.com/55022464/65388596-53a31c00-dd88-11e9-9134-7d782745a695.png)
 
+![201614733_3](https://user-images.githubusercontent.com/55022464/65388601-56057600-dd88-11e9-8524-bd49f7e90a2a.png)
 
+![201614733_4](https://user-images.githubusercontent.com/55022464/65388602-5736a300-dd88-11e9-9254-08992e19b658.png)
+
+![201614733_5](https://user-images.githubusercontent.com/55022464/65388603-5867d000-dd88-11e9-9d60-fafd9b5ceeae.png)
+
+![201614733_6](https://user-images.githubusercontent.com/55022464/65388604-5998fd00-dd88-11e9-8c89-4562004b6fcf.png)
+
+![201614733_7](https://user-images.githubusercontent.com/55022464/65388605-5b62c080-dd88-11e9-8a5f-d29714f5f59e.png)
+
+![201614733_8](https://user-images.githubusercontent.com/55022464/65388607-5c93ed80-dd88-11e9-9e62-b2099ed129d8.png)
+
+![201614733_9](https://user-images.githubusercontent.com/55022464/65388610-5dc51a80-dd88-11e9-852a-554460d14895.png)
+
+![20161473 3주차 숙제](https://user-images.githubusercontent.com/55022464/65388612-60277480-dd88-11e9-921c-8da773824f66.png)
 
 
 
