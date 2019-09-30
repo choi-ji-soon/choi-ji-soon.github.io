@@ -33,6 +33,44 @@
 
 
 
+![20161473p4-1](https://user-images.githubusercontent.com/55022464/65882321-c5eeae80-e3cf-11e9-928b-38cbe113fed9.png)
+
+![20161473p4-2](https://user-images.githubusercontent.com/55022464/65882330-c9823580-e3cf-11e9-90f7-e09e4a3a753d.png)
+
+![20161473p4-3](https://user-images.githubusercontent.com/55022464/65882335-cb4bf900-e3cf-11e9-84f3-7970af8bde24.png)
+
+![20161473p4-4](https://user-images.githubusercontent.com/55022464/65882343-cf781680-e3cf-11e9-9f29-79f8a81db6ed.png)
+
+![20161473p4-5](https://user-images.githubusercontent.com/55022464/65882351-d1da7080-e3cf-11e9-8f02-95c8c8a22a5c.png)
+
+![20161473p4-6](https://user-images.githubusercontent.com/55022464/65882358-d4d56100-e3cf-11e9-81e7-e14aa0104bcc.png)
+
+![20161473p4_7](https://user-images.githubusercontent.com/55022464/65882360-d7d05180-e3cf-11e9-895f-9963c5637ee2.png)
+
+![20191473p4_8](https://user-images.githubusercontent.com/55022464/65882372-ddc63280-e3cf-11e9-9389-a076b11d6003.png)
+
+![20161473 숙제 1](https://user-images.githubusercontent.com/55022464/65882378-e3237d00-e3cf-11e9-89ec-02ce5865b914.png)
+
+![20161473 숙제 2](https://user-images.githubusercontent.com/55022464/65882383-e61e6d80-e3cf-11e9-9fb0-5c4623f5645c.png)
+
+![20161473 숙제 3](https://user-images.githubusercontent.com/55022464/65882388-eae32180-e3cf-11e9-8db8-edd6d4f567d1.png)
+
+![20161473 숙제 4](https://user-images.githubusercontent.com/55022464/65882400-edde1200-e3cf-11e9-825d-c74e44878ee2.png)
+
+![20161473 숙제 5](https://user-images.githubusercontent.com/55022464/65882406-efa7d580-e3cf-11e9-8c3f-732a61683a56.png)
+
+![20161473 숙제 6](https://user-images.githubusercontent.com/55022464/65882410-f20a2f80-e3cf-11e9-885f-b8eb48ca7c7c.png)
+
+![20161473 숙제 7](https://user-images.githubusercontent.com/55022464/65882416-f3d3f300-e3cf-11e9-9c10-0db881a854a2.png)
+
+![20161473 숙제 8](https://user-images.githubusercontent.com/55022464/65882417-f6364d00-e3cf-11e9-80b7-759405d4eeee.png)
+
+![20161473 숙제 9](https://user-images.githubusercontent.com/55022464/65882420-f8001080-e3cf-11e9-86d2-41793c35a720.png)
+
+![20161473 숙제 10](https://user-images.githubusercontent.com/55022464/65882424-f9c9d400-e3cf-11e9-9ddd-3868a57c0556.png)
+
+![20161473 숙제 11](https://user-images.githubusercontent.com/55022464/65882426-fc2c2e00-e3cf-11e9-94d8-8b3f4bc54adb.png)
+
 
 
 
