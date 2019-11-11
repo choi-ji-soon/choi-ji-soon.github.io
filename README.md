@@ -170,7 +170,46 @@
 
 
 
+![절차 곱 코드](https://user-images.githubusercontent.com/55022464/68595845-9908dd80-04dd-11ea-8eca-3bf2763d8651.png)
+![절차 곱 결과](https://user-images.githubusercontent.com/55022464/68595848-9c03ce00-04dd-11ea-8ba0-a81a6695cfa6.png)
+![함수 곱 코드](https://user-images.githubusercontent.com/55022464/68595858-9f975500-04dd-11ea-8b51-80a7f609e1c4.png)
+![함수 곱 결과](https://user-images.githubusercontent.com/55022464/68595865-a1611880-04dd-11ea-8548-8b16947f08cd.png)
+![객체 곱 코드](https://user-images.githubusercontent.com/55022464/68595870-a45c0900-04dd-11ea-9d51-4f83be1c7c7c.png)
+![객체 곱 결과](https://user-images.githubusercontent.com/55022464/68595876-a625cc80-04dd-11ea-9df8-42e14ff3823e.png)
+![자바빈 곱 코드](https://user-images.githubusercontent.com/55022464/68595883-a8882680-04dd-11ea-984a-b526d0fd91fd.png)
+![자바빈 곱 결과](https://user-images.githubusercontent.com/55022464/68595888-aa51ea00-04dd-11ea-9548-947be98b6bbf.png)
 
+
+
+
+
+
+
+
+![절차 사각형 코드](https://user-images.githubusercontent.com/55022464/68595931-ba69c980-04dd-11ea-9e36-1c5672fe8a5a.png)
+![절차 사각형 결과](https://user-images.githubusercontent.com/55022464/68595939-bdfd5080-04dd-11ea-969c-87815f636bb4.png)
+![함수 사각형 코드](https://user-images.githubusercontent.com/55022464/68595944-c0f84100-04dd-11ea-919e-eb39fe49d2e9.png)
+![함수 사각형 결과](https://user-images.githubusercontent.com/55022464/68595946-c2296e00-04dd-11ea-95b5-dce4af342776.png)
+![객체 사각형 코드](https://user-images.githubusercontent.com/55022464/68595952-c48bc800-04dd-11ea-9c95-fd1dc8dc39d7.png)
+![객체 사각형 결과](https://user-images.githubusercontent.com/55022464/68595960-c6558b80-04dd-11ea-9285-d3547c52a2a6.png)
+![자바빈 사각형 코드](https://user-images.githubusercontent.com/55022464/68595965-c8b7e580-04dd-11ea-893c-a3c39c64544b.png)
+![자바빈 사각형 결과](https://user-images.githubusercontent.com/55022464/68595981-ce153000-04dd-11ea-9e38-5b6aaac9812c.png)
+
+
+
+
+
+
+
+
+![절차 삼각형 코드](https://user-images.githubusercontent.com/55022464/68595993-d66d6b00-04dd-11ea-84ef-0fc012798955.png)
+![절차 삼각형 결과](https://user-images.githubusercontent.com/55022464/68595996-d8cfc500-04dd-11ea-93a4-ce2ae55bfee5.png)
+![함수 삼각형 코드](https://user-images.githubusercontent.com/55022464/68596005-dc634c00-04dd-11ea-8ce9-f490edadf147.png)
+![함수 삼각형 결과](https://user-images.githubusercontent.com/55022464/68596012-dd947900-04dd-11ea-863b-06365e03156e.png)
+![객체 삼각형 코드](https://user-images.githubusercontent.com/55022464/68596021-e08f6980-04dd-11ea-9511-e688a2cf93f6.png)
+![객체 삼각형 결과](https://user-images.githubusercontent.com/55022464/68596030-e2592d00-04dd-11ea-9fc8-5e9b46253c8a.png)
+![자바빈 삼각형 코드](https://user-images.githubusercontent.com/55022464/68596039-e4bb8700-04dd-11ea-8d8c-269aa641b591.png)
+![자바빈 삼각형 결과](https://user-images.githubusercontent.com/55022464/68596046-e7b67780-04dd-11ea-83d9-8a28a4eeb42b.png)
 
 
 
